@@ -11,9 +11,9 @@ body:
       placeholder: ex. Oculus Go
     validations:
       required: true
-    - type: input
-      id: headsetCodename
-      attributes:
-        label: Codename of said VR Headset
-        description: Codename for the VR Headset you are suggesting. Can Be Skipped.
-        placeholder: ex. Pacific
+  - type: input
+    id: headsetCodename
+    attributes:
+      label: Codename of said VR Headset
+      description: Codename for the VR Headset you are suggesting. Can Be Skipped.
+       placeholder: ex. Pacific
