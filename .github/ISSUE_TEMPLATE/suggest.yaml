@@ -16,4 +16,6 @@ body:
     attributes:
       label: Codename of said VR Headset
       description: Codename for the VR Headset you are suggesting. Can Be Skipped.
-       placeholder: ex. Pacific
+      placeholder: ex. Pacific
+    validations:
+      required: false
