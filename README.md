@@ -3,4 +3,4 @@
 A Open-Source Virtual Reality Headset Database
 
 ## Where does this data come from?
-[My own Google Sheets document](https://docs.google.com/spreadsheets/d/1k_aXYkBnWjifawwC_ejNWAA7xU5pgyWFUN_sfYDHL6c), and [Wikipedia](https://en.wikipedia.org/wiki/List_of_virtual_reality_headsets). (and possibly more as i research on more kinds of vr headsets
+[My own Google Sheets document](https://docs.google.com/spreadsheets/d/1k_aXYkBnWjifawwC_ejNWAA7xU5pgyWFUN_sfYDHL6c), and [Wikipedia](https://en.wikipedia.org/wiki/List_of_virtual_reality_headsets). (and possibly more as i research on more kinds of vr headsets)
