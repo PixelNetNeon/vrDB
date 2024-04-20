@@ -32,3 +32,15 @@ body:
         - Android Version
     validations:
       required: true
+  - type: input
+    id: correctionWordsThing
+    attributes:
+      label: Correct to what value?
+      placeholder: ex. Android 12.1
+    validations:
+      required: true
+  - type: textarea
+    id: explainWhy
+    attributes:
+      label: Explain why this is data is originally wrong.
+      placeholder: Explain here...
