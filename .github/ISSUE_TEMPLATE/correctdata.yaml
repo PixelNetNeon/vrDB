@@ -30,3 +30,5 @@ body:
         - Degrees of Freedom
         - Release Date
         - Android Version
+    validations:
+      required: true
