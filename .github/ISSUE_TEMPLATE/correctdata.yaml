@@ -13,7 +13,7 @@ body:
         - Oculus Quest
         - Oculus Quest 2
         - Oculus Pro
-        -	Oculus Quest 3
+        - Oculus Quest 3
         - Lenovo Mirage Solo
         - HTC VIVE XR Elite
       default: 0
