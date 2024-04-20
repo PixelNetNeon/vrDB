@@ -1,7 +1,7 @@
-Name,Codename,arm Version,Degrees of Freedom,Release Date
-Oculus Go,Pacific,ARMv8-A,3DoF,"May 1, 2018"
-Oculus Quest,Unknown,ARMv8-A,6DoF,"May 21, 2019"
-Oculus Quest 2,Mirimar / Hollywood,ARMv8.2-A,6DoF,"October 13, 2020"
-Quest Pro,Unknown,ARMv8.2-A,6DoF,"October 25, 2022"
-Quest 3,Stinson / Eureka,ARMv8.2-A,6DoF,"October 10, 2023"
-Lenovo Mirage Solo,Unknown,ARMv8-A,6DoF / 3DoF,"May 2018"
+Name,Codename,arm Version,Degrees of Freedom,Release Date,Android Version
+Oculus Go,Pacific,ARMv8-A,3DoF,"May 1, 2018","7.1.1 (Nougat)"
+Oculus Quest,Unknown,ARMv8-A,6DoF,"May 21, 2019",10 (Q)
+Oculus Quest 2,Mirimar / Hollywood,ARMv8.2-A,6DoF,"October 13, 2020",Android 12.1
+Quest Pro,Unknown,ARMv8.2-A,6DoF,"October 25, 2022",TBA
+Quest 3,Stinson / Eureka,ARMv8.2-A,6DoF,"October 10, 2023",TBA
+Lenovo Mirage Solo,Unknown,ARMv8-A,6DoF / 3DoF,"May 2018","Android 8.0.0"
