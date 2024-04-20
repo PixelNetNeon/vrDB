@@ -1,0 +1,32 @@
+name: Fix standalone vr headset info.
+description: Help correct any wrong info in the standalone_vr.csv file.
+title: "[Correction]: "
+
+body: 
+  - type: dropdown
+    id: headsetName
+    attributes:
+      label: Headset
+      description: What Headset would you like corrected?
+      options:
+        - Oculus Go
+        - Oculus Quest
+        - Oculus Quest 2
+        - Oculus Pro
+        -	Oculus Quest 3
+        - Lenovo Mirage Solo
+        - HTC VIVE XR Elite
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: valueType
+    attributes:
+      label: Info To Fix.
+      description: What Headset Info do you want fixed?
+      options:
+        - Codename
+        - arm Version
+        - Degrees of Freedom
+        - Release Date
+        - Android Version
